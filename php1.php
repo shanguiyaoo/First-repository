@@ -1,3 +1,3 @@
 <php>
-
-phpLnf{};
+ 111112222
+phpinfo{};
